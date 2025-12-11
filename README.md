@@ -7,7 +7,7 @@ GreenDestination is facing increasing employee attrition, causing rising hiring 
 experienced staff, and reduced productivity.
 
 The HR department wants to understand:
-• Why employees are leaving
-• Which employees are at highest risk
-• What factors influence attrition
-• What actions can reduce turnover
+- Why employees are leaving
+- Which employees are at highest risk
+- What factors influence attrition
+- What actions can reduce turnover
